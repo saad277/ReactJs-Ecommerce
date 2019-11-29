@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.47b5b34a.chunk.css",
+    "main.js": "/my-app/static/js/main.7e5c490f.chunk.js",
+    "main.js.map": "/my-app/static/js/main.7e5c490f.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.b98a38d4.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.b98a38d4.js.map",
+    "static/js/2.f4f65c28.chunk.js": "/my-app/static/js/2.f4f65c28.chunk.js",
+    "static/js/2.f4f65c28.chunk.js.map": "/my-app/static/js/2.f4f65c28.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.6f74f1fbbf41b24b8cea8274f9360fee.js": "/my-app/precache-manifest.6f74f1fbbf41b24b8cea8274f9360fee.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.47b5b34a.chunk.css.map": "/my-app/static/css/main.47b5b34a.chunk.css.map",
+    "static/media/iphone.jpg": "/my-app/static/media/iphone.f4d611c5.jpg",
+    "static/media/pixel.jpg": "/my-app/static/media/pixel.ca500e07.jpg",
+    "static/media/windows.jpg": "/my-app/static/media/windows.e205ae33.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b98a38d4.js",
+    "static/js/2.f4f65c28.chunk.js",
+    "static/css/main.47b5b34a.chunk.css",
+    "static/js/main.7e5c490f.chunk.js"
+  ]
+}
