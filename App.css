@@ -1,0 +1,128 @@
+.App {
+  
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+
+.img1{
+
+    height:700px;
+    
+   
+    background-image: url("https://cdn.vox-cdn.com/thumbor/QJ5PUsIy3O7kt0FHIXVWhbBMo00=/0x0:2040x1360/920x613/filters:focal(772x579:1098x905):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/64010287/jbareham_190611_3481_0169.0.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+
+}
+
+
+.headings{
+
+
+color: black;
+font-size: 38px;
+
+text-align: center;
+
+
+
+
+border-color: white;
+
+background-color: white;
+
+border-radius: 15px;
+
+
+box-shadow: 25px -9px 72px 0px rgba(0,0,0,0.79);
+
+display:inline;
+
+margin-top:90px;
+
+}
+
+
+.section3{
+
+
+background-color: lightgray;
+
+padding: 20px;
+
+}
+
+
+
+.phone-card{
+
+
+height:200px;
+padding:20px;
+
+}
+
+.card-container{
+
+
+  
+}
+
+
+
+.cart{
+
+background-color: lightgray;
+margin:20px;
+padding:30px;
+border-radius: 15px;
+
+
+}
+
+
+.item-img{
+
+display: inline-block;
+
+
+
+}
+
+
+.item-desc{
+
+display: inline-block;
+
+margin-left: 100px;
+
+
+
+}
+
+.title{
+
+font-style: bold;
+font-size: 28px;
+
+
+}
