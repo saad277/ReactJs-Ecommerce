@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReactJs-Ecommerce/static/css/main.d7893c14.chunk.css",
-    "main.js": "/ReactJs-Ecommerce/static/js/main.8fc1a7a2.chunk.js",
-    "main.js.map": "/ReactJs-Ecommerce/static/js/main.8fc1a7a2.chunk.js.map",
+    "main.js": "/ReactJs-Ecommerce/static/js/main.d1307ca8.chunk.js",
+    "main.js.map": "/ReactJs-Ecommerce/static/js/main.d1307ca8.chunk.js.map",
     "runtime-main.js": "/ReactJs-Ecommerce/static/js/runtime-main.65fe8316.js",
     "runtime-main.js.map": "/ReactJs-Ecommerce/static/js/runtime-main.65fe8316.js.map",
     "static/js/2.72d6e672.chunk.js": "/ReactJs-Ecommerce/static/js/2.72d6e672.chunk.js",
     "static/js/2.72d6e672.chunk.js.map": "/ReactJs-Ecommerce/static/js/2.72d6e672.chunk.js.map",
     "index.html": "/ReactJs-Ecommerce/index.html",
-    "precache-manifest.586318037b9d1ccfcdcdffdd9880cb88.js": "/ReactJs-Ecommerce/precache-manifest.586318037b9d1ccfcdcdffdd9880cb88.js",
+    "precache-manifest.1a692d1ad3186b6865d7deab4f2e2a62.js": "/ReactJs-Ecommerce/precache-manifest.1a692d1ad3186b6865d7deab4f2e2a62.js",
     "service-worker.js": "/ReactJs-Ecommerce/service-worker.js",
     "static/css/main.d7893c14.chunk.css.map": "/ReactJs-Ecommerce/static/css/main.d7893c14.chunk.css.map",
     "static/media/iphone.jpg": "/ReactJs-Ecommerce/static/media/iphone.f4d611c5.jpg",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.65fe8316.js",
     "static/js/2.72d6e672.chunk.js",
     "static/css/main.d7893c14.chunk.css",
-    "static/js/main.8fc1a7a2.chunk.js"
+    "static/js/main.d1307ca8.chunk.js"
   ]
 }
