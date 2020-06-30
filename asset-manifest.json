@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7893c14.chunk.css",
-    "main.js": "/static/js/main.c59c415c.chunk.js",
-    "main.js.map": "/static/js/main.c59c415c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c221e3d8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c221e3d8.js.map",
-    "static/js/2.4489b452.chunk.js": "/static/js/2.4489b452.chunk.js",
-    "static/js/2.4489b452.chunk.js.map": "/static/js/2.4489b452.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fc21e3fca0c5dfc68d60d73e26d1d8df.js": "/precache-manifest.fc21e3fca0c5dfc68d60d73e26d1d8df.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d7893c14.chunk.css.map": "/static/css/main.d7893c14.chunk.css.map",
-    "static/media/iphone.jpg": "/static/media/iphone.f4d611c5.jpg",
-    "static/media/pixel.jpg": "/static/media/pixel.ca500e07.jpg",
-    "static/media/windows.jpg": "/static/media/windows.e205ae33.jpg"
+    "main.css": "/ReactJs-Ecommerce/static/css/main.d7893c14.chunk.css",
+    "main.js": "/ReactJs-Ecommerce/static/js/main.8fc1a7a2.chunk.js",
+    "main.js.map": "/ReactJs-Ecommerce/static/js/main.8fc1a7a2.chunk.js.map",
+    "runtime-main.js": "/ReactJs-Ecommerce/static/js/runtime-main.65fe8316.js",
+    "runtime-main.js.map": "/ReactJs-Ecommerce/static/js/runtime-main.65fe8316.js.map",
+    "static/js/2.72d6e672.chunk.js": "/ReactJs-Ecommerce/static/js/2.72d6e672.chunk.js",
+    "static/js/2.72d6e672.chunk.js.map": "/ReactJs-Ecommerce/static/js/2.72d6e672.chunk.js.map",
+    "index.html": "/ReactJs-Ecommerce/index.html",
+    "precache-manifest.586318037b9d1ccfcdcdffdd9880cb88.js": "/ReactJs-Ecommerce/precache-manifest.586318037b9d1ccfcdcdffdd9880cb88.js",
+    "service-worker.js": "/ReactJs-Ecommerce/service-worker.js",
+    "static/css/main.d7893c14.chunk.css.map": "/ReactJs-Ecommerce/static/css/main.d7893c14.chunk.css.map",
+    "static/media/iphone.jpg": "/ReactJs-Ecommerce/static/media/iphone.f4d611c5.jpg",
+    "static/media/pixel.jpg": "/ReactJs-Ecommerce/static/media/pixel.ca500e07.jpg",
+    "static/media/windows.jpg": "/ReactJs-Ecommerce/static/media/windows.e205ae33.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c221e3d8.js",
-    "static/js/2.4489b452.chunk.js",
+    "static/js/runtime-main.65fe8316.js",
+    "static/js/2.72d6e672.chunk.js",
     "static/css/main.d7893c14.chunk.css",
-    "static/js/main.c59c415c.chunk.js"
+    "static/js/main.8fc1a7a2.chunk.js"
   ]
 }
