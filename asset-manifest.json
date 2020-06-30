@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Module-Final/static/css/main.c4988ed9.chunk.css",
-    "main.js": "/Module-Final/static/js/main.7992efa4.chunk.js",
-    "main.js.map": "/Module-Final/static/js/main.7992efa4.chunk.js.map",
-    "runtime-main.js": "/Module-Final/static/js/runtime-main.cd714b77.js",
-    "runtime-main.js.map": "/Module-Final/static/js/runtime-main.cd714b77.js.map",
-    "static/js/2.5850bbc9.chunk.js": "/Module-Final/static/js/2.5850bbc9.chunk.js",
-    "static/js/2.5850bbc9.chunk.js.map": "/Module-Final/static/js/2.5850bbc9.chunk.js.map",
-    "index.html": "/Module-Final/index.html",
-    "precache-manifest.7cbb5984e0da8419fa4fb574c4255df0.js": "/Module-Final/precache-manifest.7cbb5984e0da8419fa4fb574c4255df0.js",
-    "service-worker.js": "/Module-Final/service-worker.js",
-    "static/css/main.c4988ed9.chunk.css.map": "/Module-Final/static/css/main.c4988ed9.chunk.css.map",
-    "static/media/iphone.jpg": "/Module-Final/static/media/iphone.f4d611c5.jpg",
-    "static/media/pixel.jpg": "/Module-Final/static/media/pixel.ca500e07.jpg",
-    "static/media/windows.jpg": "/Module-Final/static/media/windows.e205ae33.jpg"
+    "main.css": "/static/css/main.d7893c14.chunk.css",
+    "main.js": "/static/js/main.c59c415c.chunk.js",
+    "main.js.map": "/static/js/main.c59c415c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c221e3d8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c221e3d8.js.map",
+    "static/js/2.4489b452.chunk.js": "/static/js/2.4489b452.chunk.js",
+    "static/js/2.4489b452.chunk.js.map": "/static/js/2.4489b452.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fc21e3fca0c5dfc68d60d73e26d1d8df.js": "/precache-manifest.fc21e3fca0c5dfc68d60d73e26d1d8df.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d7893c14.chunk.css.map": "/static/css/main.d7893c14.chunk.css.map",
+    "static/media/iphone.jpg": "/static/media/iphone.f4d611c5.jpg",
+    "static/media/pixel.jpg": "/static/media/pixel.ca500e07.jpg",
+    "static/media/windows.jpg": "/static/media/windows.e205ae33.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd714b77.js",
-    "static/js/2.5850bbc9.chunk.js",
-    "static/css/main.c4988ed9.chunk.css",
-    "static/js/main.7992efa4.chunk.js"
+    "static/js/runtime-main.c221e3d8.js",
+    "static/js/2.4489b452.chunk.js",
+    "static/css/main.d7893c14.chunk.css",
+    "static/js/main.c59c415c.chunk.js"
   ]
 }
